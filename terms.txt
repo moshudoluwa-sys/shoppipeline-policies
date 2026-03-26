@@ -1,0 +1,3 @@
+Terms of Service for ShopPipeline.
+This is a personal developer application for automated video publishing.
+No commercial terms apply.
